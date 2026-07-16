@@ -5,6 +5,7 @@ A comprehensive exploratory data analysis of 75 years of Formula 1 racing — co
 
 ## Key Findings
 
+
 ### Driver Performance
 | Metric | Finding |
 |--------|---------|
