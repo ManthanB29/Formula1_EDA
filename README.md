@@ -67,12 +67,12 @@ F1 reliability has undergone a **5–6x structural improvement** over 75 years:
 
 ## Project Structure
 ```
-f1-eda/
+Formula1_EDA/
 │
 ├── Formula1_EDA.ipynb                          # Main analysis notebook
 ├── README.md                         # Project overview
 │
-└── f1data.zip                        # Dataset (9 CSV files)
+└── formula-1-world-championship-1950-2020.zip                        # Dataset (9 CSV files)
 ```
 
 ## Analysis Sections
