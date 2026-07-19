@@ -69,7 +69,7 @@ F1 reliability has undergone a **5–6x structural improvement** over 75 years:
 ```
 f1-eda/
 │
-├── F1.ipynb                          # Main analysis notebook
+├── Formula1_EDA.ipynb                          # Main analysis notebook
 ├── README.md                         # Project overview
 │
 └── f1data.zip                        # Dataset (9 CSV files)
